@@ -11,7 +11,7 @@
 // about supported directives.
 //
 
-//= require uquery3
+//= require jquery3
 //= require popper
 //= require bootstrap-sprockets
 
